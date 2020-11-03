@@ -32,10 +32,10 @@ Condiciones de borde:
 | _**Variable**_ | _**Valor**_ |
 |--------------|-----------|
 | T°_inicial | 20°C |
-|  T_S | 0°C |
+| T_S | 0°C |
 | T_IZ | 20°C |
 | T_IN | 20° |
-| T_ D | 0°C |
+| T_D | 0°C |
 
 #### Gráfico evolución T°
 
@@ -56,10 +56,10 @@ Condiciones de borde:
 | _**Variable**_ | _**Valor**_ |
 |--------------|-----------|
 | T°_inicial | 20°C |
-|  T_S | 0°C |
+| T_S | 0°C |
 | T_IZ | 20°C |
 | T_IN | 20° |
-| G_ D | 0°C |
+| GD | 0°C |
 
 #### Gráfico evolución T°
 
@@ -79,7 +79,7 @@ Condiciones de borde:
 | _**Variable**_ | _**Valor**_ |
 |--------------|-----------|
 | T°_inicial | 10°C |
-|  T_S | 0°C |
+| T_S | 0°C |
 | T_IZ | 20°C |
 | T_IN | 20° |
 | T_D | 20°C |
@@ -102,16 +102,18 @@ Condiciones de borde:
 | _**Variable**_ | _**Valor**_ |
 |--------------|-----------|
 | T°_inicial | 10°C |
-|  T_S | 0°C |
+| T_S | 0°C |
 | T_IZ | 20°C |
 | T_IN | 20° |
-| G_ D | 0 |
+| G_D | 0 |
 
 #### Gráfico evolución T°
-|------|
+
+##
 
 #### Imágenes fijas T° en intervalos de tiempo
-|------|
+
+##
 
 #### GIF
 
@@ -123,7 +125,7 @@ Condiciones de borde:
 | _**Variable**_ | _**Valor**_ |
 |--------------|-----------|
 | T°_inicial | 5°C |
-|  G_S | 0 |
+| G_S | 0 |
 | T_IZ | 25°C |
 | G_IN | 20 |
 | T_D | 25°C |
@@ -146,10 +148,10 @@ Condiciones de borde:
 | _**Variable**_ | _**Valor**_ |
 |--------------|-----------|
 | T°_inicial | 30°C |
-|  G_S | 0° |
+| G_S | 0° |
 | T_IZ | 10°C |
 | G_IN | 0 |
-| G_ D | 0 |
+| G_D | 0 |
 
 #### Gráfico evolución T°
 
@@ -171,10 +173,10 @@ Condiciones de borde:
 | _**Variable**_ | _**Valor**_ |
 |--------------|-----------|
 | T°_inicial | 20°C |
-|  T_S | Sinusoide con variación de 10° |
+| T_S | Sinusoide con variación de 10° |
 | G_IZ | 0 |
 | G_IN | 0 |
-| G_ D | 0 |
+| G_D | 0 |
 
 #### Gráfico evolución T°
 
