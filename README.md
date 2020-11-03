@@ -25,6 +25,9 @@ Los puntos de interés se muestran a continuación:
 Junto a lo anterior, se presentarán imágenes de la distribución de la temperatura en tiempos específicos, siendo estos: `0h`, `2h`, `6h`, `12h` y `24h`. Y por último, se adjuntará un gráfico de la evolución de la temperatura en cada caso.
 
 ## Caso 1
+***
+---
+___
 
 Condiciones de borde
 
