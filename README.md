@@ -331,16 +331,16 @@ Condiciones de borde:
 
 * ### Explique ¿como cambia el código para el caso 3-D? ¿Como se imponen las condiciones de borde?
 
-Para el caso en 3D, lo primero que se debe hacer es definir la nueva dirección a considerar (_profundidad en este caso_). A modo de ejemplificación se procederá a mencionar las variables que hipotéticamente deberían incluirse en el código para que este ejecute un caso en 3D. La  variable de la profundidad sería `c =`.
+Para el caso en 3D, lo primero que se debe hacer es definir la nueva dirección a considerar _(profundidad en este caso)_. A modo de ejemplificación se procederá a mencionar las variables que hipotéticamente deberían incluirse en el código para que este ejecute un caso en 3D. La  variable de la profundidad sería `c =`.
 El segundo paso sería definir la variable `Nz` que posea el número de intervalos en la nueva dirección agregada.
-Juntando lo anterior, se debería crear la variable `dz=` que sería la discretización para la nueva dirección considerada. Esta es la cuociente entre la variable `c`y `Nz`.
-Lo siguiente sería cambiar la función de conveniencia para que reciba 3 parámetros (_1 por cada dirección_). De esta manera quedaría `coords = lambda i, j, k :(dx*i,dy*j, dz*k)`
+Juntando lo anterior, se debería crear la variable `dz=` que sería la discretización para la nueva dirección considerada. Esta seria el cuociente entre la variable `c`y `Nz`.
+Lo siguiente sería cambiar la función de conveniencia para que reciba 3 parámetros _(1 por cada dirección)_. De esta manera quedaría `coords = lambda i, j, k :(dx*i,dy*j, dz*k)`
 
 
 Dado que es un objetivo fundamental de este código tanto el ser capaz de observar gráficamente el comportamiento de la temperatura en el hormigón, como el respectivo desarrollo de la temperatura en este, es que se debería cambiar la función `imshowbien` para que considere la direccion `c` en lo graficado. Los cambios aquí serían netamente de ploteo.
 
-El código 2D solo considera el comportamiento de la temperatura en el plano XY. Debido a esto se deberían crear las variables auxiliares `u_km2` y `u_km3` que muestren cómo se comporta la temperatura en los planos XZ e YZ respectivamente.
-Luego simplemente bastaría definir variables para las condiciones de borde del ejercicio. Para efectos de explicar cómo funciona un código en 3D, se asumirá que tanto las temperaturas como los gradientes son aplicados en las caras del cubo de hormigón  (_6 en total_) en vez de en los bordes de este, por lo que las variables a agregar serían:
+El código 2D solo considera el comportamiento de la temperatura en el plano XY. Debido a esto se deberían crear las variables auxiliares `u_km2` y `u_km3` que muestren cómo se comportará la temperatura en los planos XZ e YZ respectivamente.
+Luego simplemente bastaría definir variables para las condiciones de borde del ejercicio. Para efectos de explicar cómo funciona un código en 3D, se asumirá que tanto las temperaturas como los gradientes son aplicados en las caras del cubo de hormigón  _(6 en total)_ en vez de en los bordes de este, por lo que las variables a agregar serían:
 * `T_S`
 * `T_IN`
 * `T_IZ`
@@ -349,5 +349,6 @@ Luego simplemente bastaría definir variables para las condiciones de borde del 
 * `T_TR`
 
 Esto se replicará para los gradientes de temperatura, manteniendo los @ para los casos correspondientes.
+
 Finalmente solo faltaría revisar las condiciones de borde del ejercicio a resolver.
 
