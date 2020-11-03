@@ -37,10 +37,10 @@ Condiciones de borde
 | T_ D | 0°C |
 
 ### Gráfico evolución T°
-|------|
+---
 
 ### Imágenes fijas T° en intervalos de tiempo
-|------|
+---
 
 ### GIF
 
