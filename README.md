@@ -53,8 +53,10 @@ Condiciones de borde:
 
 #### Imágenes fijas T° en intervalos de tiempo
 
-![frame_0000](https://user-images.githubusercontent.com/43649125/97985135-95d5c400-1db6-11eb-9bda-97b64733fc65.png)![frame_0004](https://user-images.githubusercontent.com/43649125/97985227-c61d6280-1db6-11eb-95b5-5175c9b44f99.png)
-![frame_0012](https://user-images.githubusercontent.com/43649125/97985235-c87fbc80-1db6-11eb-9dd4-8724630e8291.png)![frame_0024](https://user-images.githubusercontent.com/43649125/97985245-cb7aad00-1db6-11eb-9b85-c4da00279ce6.png)
+![frame_0000](https://user-images.githubusercontent.com/43649125/97985135-95d5c400-1db6-11eb-9bda-97b64733fc65.png)
+![frame_0004](https://user-images.githubusercontent.com/43649125/97985227-c61d6280-1db6-11eb-95b5-5175c9b44f99.png)
+![frame_0012](https://user-images.githubusercontent.com/43649125/97985235-c87fbc80-1db6-11eb-9dd4-8724630e8291.png)
+![frame_0024](https://user-images.githubusercontent.com/43649125/97985245-cb7aad00-1db6-11eb-9b85-c4da00279ce6.png)
 ![frame_0048](https://user-images.githubusercontent.com/43649125/97985251-cd447080-1db6-11eb-9657-42053ec83a96.png)
 ##
 
@@ -92,6 +94,11 @@ Condiciones de borde:
 
 #### Imágenes fijas T° en intervalos de tiempo
 
+![frame_0000](https://user-images.githubusercontent.com/43649125/97985135-95d5c400-1db6-11eb-9bda-97b64733fc65.png)
+![frame_0004](https://user-images.githubusercontent.com/43649125/97985227-c61d6280-1db6-11eb-95b5-5175c9b44f99.png)
+![frame_0012](https://user-images.githubusercontent.com/43649125/97985235-c87fbc80-1db6-11eb-9dd4-8724630e8291.png)
+![frame_0024](https://user-images.githubusercontent.com/43649125/97985245-cb7aad00-1db6-11eb-9b85-c4da00279ce6.png)
+![frame_0048](https://user-images.githubusercontent.com/43649125/97985251-cd447080-1db6-11eb-9657-42053ec83a96.png)
 ##
 
 #### GIF
@@ -129,6 +136,11 @@ Condiciones de borde:
 
 #### Imágenes fijas T° en intervalos de tiempo
 
+![frame_0000](https://user-images.githubusercontent.com/43649125/97985396-fb29b500-1db6-11eb-9de9-f41f02e46581.png)
+![frame_0004](https://user-images.githubusercontent.com/43649125/97985411-fe24a580-1db6-11eb-8efd-4b9a5ee18ab8.png)
+![frame_0012](https://user-images.githubusercontent.com/43649125/97985417-0086ff80-1db7-11eb-8197-d2c70d347aed.png)
+![frame_0024](https://user-images.githubusercontent.com/43649125/97985430-02e95980-1db7-11eb-9d56-5f82cf911b83.png)
+![frame_0048](https://user-images.githubusercontent.com/43649125/97985432-054bb380-1db7-11eb-83e9-d33f61e680e6.png)
 ##
 
 #### GIF
@@ -166,6 +178,11 @@ Condiciones de borde:
 
 #### Imágenes fijas T° en intervalos de tiempo
 
+![frame_0000](https://user-images.githubusercontent.com/43649125/97985461-0ed51b80-1db7-11eb-9922-c0fa6c4d007b.png)
+![frame_0004](https://user-images.githubusercontent.com/43649125/97985469-109edf00-1db7-11eb-8f88-201b2e2d4448.png)
+![frame_0012](https://user-images.githubusercontent.com/43649125/97985474-1268a280-1db7-11eb-83a1-dc2af8fef3f9.png)
+![frame_0024](https://user-images.githubusercontent.com/43649125/97985484-15639300-1db7-11eb-8116-474eb8ba0fc3.png)
+![frame_0048](https://user-images.githubusercontent.com/43649125/97985490-17c5ed00-1db7-11eb-8f08-a3e6ae2812de.png)
 ##
 
 #### GIF
@@ -201,6 +218,12 @@ Condiciones de borde:
 ##
 
 #### Imágenes fijas T° en intervalos de tiempo
+
+![frame_0000](https://user-images.githubusercontent.com/43649125/97985513-1f859180-1db7-11eb-99b6-192234bee1a9.png)
+![frame_0004](https://user-images.githubusercontent.com/43649125/97985520-214f5500-1db7-11eb-98ee-015c04e3b79c.png)
+![frame_0012](https://user-images.githubusercontent.com/43649125/97985523-23b1af00-1db7-11eb-9f5e-4995677817fe.png)
+![frame_0024](https://user-images.githubusercontent.com/43649125/97985525-257b7280-1db7-11eb-9ab7-9578722d587d.png)
+![frame_0048](https://user-images.githubusercontent.com/43649125/97985527-27453600-1db7-11eb-90f1-a4851f2682ac.png)
 
 ##
 
@@ -239,6 +262,11 @@ Condiciones de borde:
 
 #### Imágenes fijas T° en intervalos de tiempo
 
+![frame_0000](https://user-images.githubusercontent.com/43649125/97985543-2e6c4400-1db7-11eb-9a90-95e816c10a12.png)
+![frame_0004](https://user-images.githubusercontent.com/43649125/97985551-30360780-1db7-11eb-984c-3e5afc359761.png)
+![frame_0012](https://user-images.githubusercontent.com/43649125/97985559-31673480-1db7-11eb-8fa0-13e8d3643f4d.png)
+![frame_0024](https://user-images.githubusercontent.com/43649125/97985572-34fabb80-1db7-11eb-99e7-3dc7dae76c06.png)
+![frame_0048](https://user-images.githubusercontent.com/43649125/97985578-36c47f00-1db7-11eb-8448-c657c3c5e3e9.png)
 ##
 
 #### GIF
@@ -279,6 +307,11 @@ Condiciones de borde:
 
 #### Imágenes fijas T° en intervalos de tiempo
 
+![frame_0000](https://user-images.githubusercontent.com/43649125/97985617-404de700-1db7-11eb-84de-884d98de8741.png)
+![frame_0004](https://user-images.githubusercontent.com/43649125/97985621-42b04100-1db7-11eb-86ca-5886dc9f6e5c.png)
+![frame_0012](https://user-images.githubusercontent.com/43649125/97985625-447a0480-1db7-11eb-880f-074ab8807a28.png)
+![frame_0024](https://user-images.githubusercontent.com/43649125/97985630-4643c800-1db7-11eb-8f26-db15a9de4092.png)
+![frame_0048](https://user-images.githubusercontent.com/43649125/97985633-480d8b80-1db7-11eb-88c8-0eb73262f2fe.png)
 ##
 
 #### GIF
