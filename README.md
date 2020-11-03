@@ -83,6 +83,8 @@ Condiciones de borde:
 | G_D | 0 |
 #### Gráfico evolución T°
 
+![Grafico_2](https://user-images.githubusercontent.com/43649125/97984498-9cb00700-1db5-11eb-9be2-3cc00abca490.png)
+
 ##
 
 #### Imágenes fijas T° en intervalos de tiempo
@@ -90,6 +92,10 @@ Condiciones de borde:
 ##
 
 #### GIF
+
+![GIF_caso_2](https://user-images.githubusercontent.com/43649125/97984506-9faaf780-1db5-11eb-802b-b99abd967577.gif)
+
+##
 
 ### Caso 3
 ___
@@ -114,6 +120,8 @@ Condiciones de borde:
 
 #### Gráfico evolución T°
 
+![Grafico_3](https://user-images.githubusercontent.com/43649125/97984545-a9ccf600-1db5-11eb-8e5f-569183ccca82.png)
+
 ##
 
 #### Imágenes fijas T° en intervalos de tiempo
@@ -121,6 +129,10 @@ Condiciones de borde:
 ##
 
 #### GIF
+
+![GIF_caso_3](https://user-images.githubusercontent.com/43649125/97984551-acc7e680-1db5-11eb-889d-84ae6614a458.gif)
+
+##
 
 ### Caso 4
 ___
@@ -145,6 +157,8 @@ Condiciones de borde:
 
 #### Gráfico evolución T°
 
+![Grafico_4](https://user-images.githubusercontent.com/43649125/97984574-b3565e00-1db5-11eb-9354-c1acbf9cabcd.png)
+
 ##
 
 #### Imágenes fijas T° en intervalos de tiempo
@@ -152,6 +166,10 @@ Condiciones de borde:
 ##
 
 #### GIF
+
+![GIF_caso_4](https://user-images.githubusercontent.com/43649125/97984584-b6e9e500-1db5-11eb-8807-2b66ec447f08.gif)
+
+##
 
 ### Caso 5
 ___
@@ -175,6 +193,8 @@ Condiciones de borde:
 | G_D | @ |
 #### Gráfico evolución T°
 
+![Grafico_5](https://user-images.githubusercontent.com/43649125/97984622-c5380100-1db5-11eb-8202-63a67790dca8.png)
+
 ##
 
 #### Imágenes fijas T° en intervalos de tiempo
@@ -182,6 +202,10 @@ Condiciones de borde:
 ##
 
 #### GIF
+
+![GIF_caso_5](https://user-images.githubusercontent.com/43649125/97984630-c79a5b00-1db5-11eb-8c1a-c19790b04151.gif)
+
+##
 
 ### Caso 6
 ___
@@ -206,6 +230,8 @@ Condiciones de borde:
 
 #### Gráfico evolución T°
 
+![Grafico_6](https://user-images.githubusercontent.com/43649125/97984655-ce28d280-1db5-11eb-8882-f75e03f67ee8.png)
+
 ##
 
 #### Imágenes fijas T° en intervalos de tiempo
@@ -213,6 +239,11 @@ Condiciones de borde:
 ##
 
 #### GIF
+
+
+![GIF_caso_6](https://user-images.githubusercontent.com/43649125/97984666-d08b2c80-1db5-11eb-9268-374c02c491cf.gif)
+
+##
 
 ### Caso 7
 ___
@@ -239,6 +270,8 @@ Condiciones de borde:
 
 #### Gráfico evolución T°
 
+![Grafico_7](https://user-images.githubusercontent.com/43649125/97984683-d7b23a80-1db5-11eb-990e-176e19e4f2e4.png)
+
 ##
 
 #### Imágenes fijas T° en intervalos de tiempo
@@ -246,3 +279,8 @@ Condiciones de borde:
 ##
 
 #### GIF
+
+
+![GIF_caso_7](https://user-images.githubusercontent.com/43649125/97984687-da149480-1db5-11eb-9015-1685e2905f6c.gif)
+
+##
