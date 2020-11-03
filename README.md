@@ -24,9 +24,7 @@ Los puntos de interés se muestran a continuación:
 
 Junto a lo anterior, se presentarán imágenes de la distribución de la temperatura en tiempos específicos, siendo estos: `0h`, `2h`, `6h`, `12h` y `24h`. Y por último, se adjuntará un gráfico de la evolución de la temperatura en cada caso.
 
-## Caso 1
-***
----
+### Caso 1
 ___
 
 Condiciones de borde
@@ -40,14 +38,18 @@ Condiciones de borde
 | T_ D | 0°C |
 
 ### Gráfico evolución T°
+
 ##
 
 ### Imágenes fijas T° en intervalos de tiempo
----
+
+##
 
 ### GIF
 
-## Caso 2
+
+### Caso 2
+___
 
 Condiciones de borde
 
@@ -60,14 +62,17 @@ Condiciones de borde
 | G_ D | 0°C |
 
 ### Gráfico evolución T°
-|------|
+
+##
 
 ### Imágenes fijas T° en intervalos de tiempo
-|------|
+
+##
 
 ### GIF
 
-## Caso 3
+### Caso 3
+___
 
 Condiciones de borde
 
@@ -80,14 +85,17 @@ Condiciones de borde
 | T_D | 20°C |
 
 ### Gráfico evolución T°
-|------|
+
+##
 
 ### Imágenes fijas T° en intervalos de tiempo
-|------|
+
+##
 
 ### GIF
 
-## Caso 4
+### Caso 4
+___
 
 Condiciones de borde
 
@@ -107,7 +115,8 @@ Condiciones de borde
 
 ### GIF
 
-## Caso 5
+### Caso 5
+___
 
 Condiciones de borde
 
@@ -120,14 +129,17 @@ Condiciones de borde
 | T_D | 25°C |
 
 ### Gráfico evolución T°
-|------|
+
+##
 
 ### Imágenes fijas T° en intervalos de tiempo
-|------|
+
+##
 
 ### GIF
 
-## Caso 6
+### Caso 6
+___
 
 Condiciones de borde
 
@@ -140,14 +152,17 @@ Condiciones de borde
 | G_ D | 0 |
 
 ### Gráfico evolución T°
-|------|
+
+##
 
 ### Imágenes fijas T° en intervalos de tiempo
-|------|
+
+##
 
 ### GIF
 
-## Caso 7
+### Caso 7
+___
 
 Se considera un periodo `T = 1 dia `.
 
@@ -162,9 +177,11 @@ Condiciones de borde
 | G_ D | 0 |
 
 ### Gráfico evolución T°
-|------|
+
+##
 
 ### Imágenes fijas T° en intervalos de tiempo
-|------|
+
+##
 
 ### GIF
