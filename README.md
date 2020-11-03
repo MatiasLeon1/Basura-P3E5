@@ -47,6 +47,8 @@ Condiciones de borde:
 
 #### Gráfico evolución T°
 
+![Grafico_1](https://user-images.githubusercontent.com/43649125/97984325-64102d80-1db5-11eb-8efd-6194b03479f4.png)
+
 ##
 
 #### Imágenes fijas T° en intervalos de tiempo
@@ -55,6 +57,9 @@ Condiciones de borde:
 
 #### GIF
 
+![GIF_caso_1](https://user-images.githubusercontent.com/43649125/97984342-6a060e80-1db5-11eb-8064-c9e210c8af1e.gif)
+
+##
 
 ### Caso 2
 ___
