@@ -1,10 +1,21 @@
 # Entrega 5
 
-| ik | hjk | nj  | ijm | 2 |
-|----|-----|-----|-----|---|
-| t  | y   | hhh | b   | g |
-| v  | ww  | h   | j   | k |
-| m  | h   | j   | j   | k |
+FORMAT: 1A
+
+# Tables API 
+Note: Tables can be handcrafted or generated at <http://www.tablesgenerator.com/markdown_tables>.
+
+## Table 1
+**Discussion option 1**
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
+# Message [/pages]
+## Create a Message [POST]
 
 Para la presente entrega se generó una función llamada *`temperatura_hormigon`* la cual recibió los parámetros mencionados a continuación:
 
