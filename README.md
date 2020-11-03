@@ -19,7 +19,7 @@ La funcion *`temperatura_hormigon`* recibe los parámetros mencionados a continu
 * `G_IZ`: gradiente de temperatura borde izquierdo
 * `G_IN`: gradiente de temperatura inferior
 * `G_D`: gradiente de temperatura borde derecho
-* `Titulo_carpeta`: variable que da nombre a carpeta donde se almacenarán los archivos `.png`
+* `Titulo_carpeta`: variable que da nombre a la carpeta donde se almacenarán los archivos `.png`
 * `Gráfico`: variable que da nombre al gráfico de la evolución de la temperatura c/r a los puntos de interés.
 
 Los puntos de interés se muestran a continuación:
@@ -27,6 +27,8 @@ Los puntos de interés se muestran a continuación:
 ![image](https://user-images.githubusercontent.com/43649125/97931939-866e6080-1d4d-11eb-8b08-8bf8212bd9b1.png)
 
 Junto a lo anterior, se presentarán imágenes de la distribución de la temperatura en tiempos específicos, siendo estos: `0h`, `2h`, `6h`, `12h` y `24h`. Y por último, se adjuntará un gráfico de la evolución de la temperatura en cada caso.
+
+Dato: las variables que tienen el valor "@" no se consideran, esto quiere decir que solo puede existir una temperatura fija o un gradiente para cada borde, pero no ambas. 
 
 ### Caso 1
 ___
