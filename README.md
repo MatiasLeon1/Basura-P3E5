@@ -1,6 +1,10 @@
 # Entrega 5
 
-Para la presente entrega se generó una función llamada *`temperatura_hormigon`* la cual recibió los parámetros mencionados a continuación:
+Para la presente entrega se generó una función llamada *`temperatura_hormigon`*.
+La función fue creada para evaluar cada uno de los 7 casos por separado. Su estructura fue pensada para ser amigable de utilizar, ya que todos los parámetros que se deben cambiar se encuentran en 1 línea de código (línea `258` para los casos 1-6, y línea `263` para el caso 7).
+Junto a lo anterior, solo se requirió cambiar las variables `fp_in` y `fp_out`. Esto, ya que los frames y el gráfico de cada caso debían ir con su número correspondiente. Para los casos 1-6, las líneas que deben cambiarse en cada ejecución de código son las `275` y `276`. Para el caso 7 las líneas que deben cambiarse con la `280` y `281`.
+
+La funcion *`temperatura_hormigon`* recibe los parámetros mencionados a continuación:
 
 * `a`: altura del cubo de hormigón
 * `b`: ancho del cubo de hormigón
