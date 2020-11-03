@@ -19,8 +19,8 @@ La funcion *`temperatura_hormigon`* recibe los parámetros mencionados a continu
 * `G_IZ`: gradiente de temperatura borde izquierdo
 * `G_IN`: gradiente de temperatura inferior
 * `G_D`: gradiente de temperatura borde derecho
-* `Titulo_carpeta`: variable que crea carpeta donde se almacenarán los archivos `.png`
-* `Gráfico`: variable que crea el gráfico de la evolución de la temperatura c/r a los puntos de interés.
+* `Titulo_carpeta`: variable que da nombre a carpeta donde se almacenarán los archivos `.png`
+* `Gráfico`: variable que da nombre al gráfico de la evolución de la temperatura c/r a los puntos de interés.
 
 Los puntos de interés se muestran a continuación:
 
