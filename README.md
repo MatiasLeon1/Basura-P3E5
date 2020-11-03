@@ -27,7 +27,7 @@ Junto a lo anterior, se presentarán imágenes de la distribución de la tempera
 ### Caso 1
 ___
 
-Condiciones de borde
+Condiciones de borde:
 
 | _**Variable**_ | _**Valor**_ |
 |--------------|-----------|
@@ -37,21 +37,21 @@ Condiciones de borde
 | T_IN | 20° |
 | T_ D | 0°C |
 
-### Gráfico evolución T°
+#### Gráfico evolución T°
 
 ##
 
-### Imágenes fijas T° en intervalos de tiempo
+#### Imágenes fijas T° en intervalos de tiempo
 
 ##
 
-### GIF
+#### GIF
 
 
 ### Caso 2
 ___
 
-Condiciones de borde
+Condiciones de borde:
 
 | _**Variable**_ | _**Valor**_ |
 |--------------|-----------|
@@ -61,20 +61,20 @@ Condiciones de borde
 | T_IN | 20° |
 | G_ D | 0°C |
 
-### Gráfico evolución T°
+#### Gráfico evolución T°
 
 ##
 
-### Imágenes fijas T° en intervalos de tiempo
+#### Imágenes fijas T° en intervalos de tiempo
 
 ##
 
-### GIF
+#### GIF
 
 ### Caso 3
 ___
 
-Condiciones de borde
+Condiciones de borde:
 
 | _**Variable**_ | _**Valor**_ |
 |--------------|-----------|
@@ -84,20 +84,20 @@ Condiciones de borde
 | T_IN | 20° |
 | T_D | 20°C |
 
-### Gráfico evolución T°
+#### Gráfico evolución T°
 
 ##
 
-### Imágenes fijas T° en intervalos de tiempo
+#### Imágenes fijas T° en intervalos de tiempo
 
 ##
 
-### GIF
+#### GIF
 
 ### Caso 4
 ___
 
-Condiciones de borde
+Condiciones de borde:
 
 | _**Variable**_ | _**Valor**_ |
 |--------------|-----------|
@@ -107,18 +107,18 @@ Condiciones de borde
 | T_IN | 20° |
 | G_ D | 0 |
 
-### Gráfico evolución T°
+#### Gráfico evolución T°
 |------|
 
-### Imágenes fijas T° en intervalos de tiempo
+#### Imágenes fijas T° en intervalos de tiempo
 |------|
 
-### GIF
+#### GIF
 
 ### Caso 5
 ___
 
-Condiciones de borde
+Condiciones de borde:
 
 | _**Variable**_ | _**Valor**_ |
 |--------------|-----------|
@@ -128,20 +128,20 @@ Condiciones de borde
 | G_IN | 20 |
 | T_D | 25°C |
 
-### Gráfico evolución T°
+#### Gráfico evolución T°
 
 ##
 
-### Imágenes fijas T° en intervalos de tiempo
+#### Imágenes fijas T° en intervalos de tiempo
 
 ##
 
-### GIF
+#### GIF
 
 ### Caso 6
 ___
 
-Condiciones de borde
+Condiciones de borde:
 
 | _**Variable**_ | _**Valor**_ |
 |--------------|-----------|
@@ -151,22 +151,22 @@ Condiciones de borde
 | G_IN | 0 |
 | G_ D | 0 |
 
-### Gráfico evolución T°
+#### Gráfico evolución T°
 
 ##
 
-### Imágenes fijas T° en intervalos de tiempo
+#### Imágenes fijas T° en intervalos de tiempo
 
 ##
 
-### GIF
+#### GIF
 
 ### Caso 7
 ___
 
 Se considera un periodo `T = 1 dia `.
 
-Condiciones de borde
+Condiciones de borde:
 
 | _**Variable**_ | _**Valor**_ |
 |--------------|-----------|
@@ -176,12 +176,12 @@ Condiciones de borde
 | G_IN | 0 |
 | G_ D | 0 |
 
-### Gráfico evolución T°
+#### Gráfico evolución T°
 
 ##
 
-### Imágenes fijas T° en intervalos de tiempo
+#### Imágenes fijas T° en intervalos de tiempo
 
 ##
 
-### GIF
+#### GIF
