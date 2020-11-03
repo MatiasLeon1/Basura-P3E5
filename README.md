@@ -53,6 +53,9 @@ Condiciones de borde:
 
 #### Imágenes fijas T° en intervalos de tiempo
 
+![frame_0000](https://user-images.githubusercontent.com/43649125/97985135-95d5c400-1db6-11eb-9bda-97b64733fc65.png)![frame_0004](https://user-images.githubusercontent.com/43649125/97985227-c61d6280-1db6-11eb-95b5-5175c9b44f99.png)
+![frame_0012](https://user-images.githubusercontent.com/43649125/97985235-c87fbc80-1db6-11eb-9dd4-8724630e8291.png)![frame_0024](https://user-images.githubusercontent.com/43649125/97985245-cb7aad00-1db6-11eb-9b85-c4da00279ce6.png)
+![frame_0048](https://user-images.githubusercontent.com/43649125/97985251-cd447080-1db6-11eb-9657-42053ec83a96.png)
 ##
 
 #### GIF
