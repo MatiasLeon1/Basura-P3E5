@@ -51,7 +51,7 @@ Condiciones de borde:
 
 ##
 
-#### Imágenes fijas T° en intervalos de tiempo
+* #### Imágenes fijas T° en intervalos de tiempo
 
 ![frame_0000](https://user-images.githubusercontent.com/43649125/97985135-95d5c400-1db6-11eb-9bda-97b64733fc65.png)
 ![frame_0004](https://user-images.githubusercontent.com/43649125/97985227-c61d6280-1db6-11eb-95b5-5175c9b44f99.png)
@@ -60,7 +60,7 @@ Condiciones de borde:
 ![frame_0048](https://user-images.githubusercontent.com/43649125/97985251-cd447080-1db6-11eb-9657-42053ec83a96.png)
 ##
 
-#### GIF
+* #### GIF
 
 ![GIF_caso_1](https://user-images.githubusercontent.com/43649125/97984342-6a060e80-1db5-11eb-8064-c9e210c8af1e.gif)
 
@@ -86,13 +86,14 @@ Condiciones de borde:
 | G_IZ | @ |
 | G_IN | @ |
 | G_D | 0 |
-#### Gráfico evolución T°
+
+* #### Gráfico evolución T°
 
 ![Grafico_2](https://user-images.githubusercontent.com/43649125/97984498-9cb00700-1db5-11eb-9be2-3cc00abca490.png)
 
 ##
 
-#### Imágenes fijas T° en intervalos de tiempo
+* #### Imágenes fijas T° en intervalos de tiempo
 
 ![frame_0000](https://user-images.githubusercontent.com/43649125/97985135-95d5c400-1db6-11eb-9bda-97b64733fc65.png)
 ![frame_0004](https://user-images.githubusercontent.com/43649125/97985227-c61d6280-1db6-11eb-95b5-5175c9b44f99.png)
@@ -101,7 +102,7 @@ Condiciones de borde:
 ![frame_0048](https://user-images.githubusercontent.com/43649125/97985251-cd447080-1db6-11eb-9657-42053ec83a96.png)
 ##
 
-#### GIF
+* #### GIF
 
 ![GIF_caso_2](https://user-images.githubusercontent.com/43649125/97984506-9faaf780-1db5-11eb-802b-b99abd967577.gif)
 
@@ -128,13 +129,13 @@ Condiciones de borde:
 | G_IN | @ |
 | G_D | @ |
 
-#### Gráfico evolución T°
+* #### Gráfico evolución T°
 
 ![Grafico_3](https://user-images.githubusercontent.com/43649125/97984545-a9ccf600-1db5-11eb-8e5f-569183ccca82.png)
 
 ##
 
-#### Imágenes fijas T° en intervalos de tiempo
+* #### Imágenes fijas T° en intervalos de tiempo
 
 ![frame_0000](https://user-images.githubusercontent.com/43649125/97985396-fb29b500-1db6-11eb-9de9-f41f02e46581.png)
 ![frame_0004](https://user-images.githubusercontent.com/43649125/97985411-fe24a580-1db6-11eb-8efd-4b9a5ee18ab8.png)
@@ -143,7 +144,7 @@ Condiciones de borde:
 ![frame_0048](https://user-images.githubusercontent.com/43649125/97985432-054bb380-1db7-11eb-83e9-d33f61e680e6.png)
 ##
 
-#### GIF
+* #### GIF
 
 ![GIF_caso_3](https://user-images.githubusercontent.com/43649125/97984551-acc7e680-1db5-11eb-889d-84ae6614a458.gif)
 
@@ -170,13 +171,13 @@ Condiciones de borde:
 | G_IN | @ |
 | G_D | 0 |
 
-#### Gráfico evolución T°
+* #### Gráfico evolución T°
 
 ![Grafico_4](https://user-images.githubusercontent.com/43649125/97984574-b3565e00-1db5-11eb-9354-c1acbf9cabcd.png)
 
 ##
 
-#### Imágenes fijas T° en intervalos de tiempo
+* #### Imágenes fijas T° en intervalos de tiempo
 
 ![frame_0000](https://user-images.githubusercontent.com/43649125/97985461-0ed51b80-1db7-11eb-9922-c0fa6c4d007b.png)
 ![frame_0004](https://user-images.githubusercontent.com/43649125/97985469-109edf00-1db7-11eb-8f88-201b2e2d4448.png)
@@ -185,7 +186,7 @@ Condiciones de borde:
 ![frame_0048](https://user-images.githubusercontent.com/43649125/97985490-17c5ed00-1db7-11eb-8f08-a3e6ae2812de.png)
 ##
 
-#### GIF
+* #### GIF
 
 ![GIF_caso_4](https://user-images.githubusercontent.com/43649125/97984584-b6e9e500-1db5-11eb-8807-2b66ec447f08.gif)
 
@@ -211,13 +212,14 @@ Condiciones de borde:
 | G_IZ | @ |
 | G_IN | 0 |
 | G_D | @ |
-#### Gráfico evolución T°
+
+* #### Gráfico evolución T°
 
 ![Grafico_5](https://user-images.githubusercontent.com/43649125/97984622-c5380100-1db5-11eb-8202-63a67790dca8.png)
 
 ##
 
-#### Imágenes fijas T° en intervalos de tiempo
+* #### Imágenes fijas T° en intervalos de tiempo
 
 ![frame_0000](https://user-images.githubusercontent.com/43649125/97985513-1f859180-1db7-11eb-99b6-192234bee1a9.png)
 ![frame_0004](https://user-images.githubusercontent.com/43649125/97985520-214f5500-1db7-11eb-98ee-015c04e3b79c.png)
@@ -227,7 +229,7 @@ Condiciones de borde:
 
 ##
 
-#### GIF
+* #### GIF
 
 ![GIF_caso_5](https://user-images.githubusercontent.com/43649125/97984630-c79a5b00-1db5-11eb-8c1a-c19790b04151.gif)
 
@@ -254,13 +256,13 @@ Condiciones de borde:
 | G_IN | 0 |
 | G_D | 0 |
 
-#### Gráfico evolución T°
+* #### Gráfico evolución T°
 
 ![Grafico_6](https://user-images.githubusercontent.com/43649125/97984655-ce28d280-1db5-11eb-8882-f75e03f67ee8.png)
 
 ##
 
-#### Imágenes fijas T° en intervalos de tiempo
+* #### Imágenes fijas T° en intervalos de tiempo
 
 ![frame_0000](https://user-images.githubusercontent.com/43649125/97985543-2e6c4400-1db7-11eb-9a90-95e816c10a12.png)
 ![frame_0004](https://user-images.githubusercontent.com/43649125/97985551-30360780-1db7-11eb-984c-3e5afc359761.png)
@@ -269,7 +271,7 @@ Condiciones de borde:
 ![frame_0048](https://user-images.githubusercontent.com/43649125/97985578-36c47f00-1db7-11eb-8448-c657c3c5e3e9.png)
 ##
 
-#### GIF
+* #### GIF
 
 
 ![GIF_caso_6](https://user-images.githubusercontent.com/43649125/97984666-d08b2c80-1db5-11eb-9268-374c02c491cf.gif)
@@ -299,13 +301,13 @@ Condiciones de borde:
 | G_IN | 0 |
 | G_D | 0 |
 
-#### Gráfico evolución T°
+* #### Gráfico evolución T°
 
 ![Grafico_7](https://user-images.githubusercontent.com/43649125/97984683-d7b23a80-1db5-11eb-990e-176e19e4f2e4.png)
 
 ##
 
-#### Imágenes fijas T° en intervalos de tiempo
+* #### Imágenes fijas T° en intervalos de tiempo
 
 ![frame_0000](https://user-images.githubusercontent.com/43649125/97985617-404de700-1db7-11eb-84de-884d98de8741.png)
 ![frame_0004](https://user-images.githubusercontent.com/43649125/97985621-42b04100-1db7-11eb-86ca-5886dc9f6e5c.png)
@@ -314,7 +316,7 @@ Condiciones de borde:
 ![frame_0048](https://user-images.githubusercontent.com/43649125/97985633-480d8b80-1db7-11eb-88c8-0eb73262f2fe.png)
 ##
 
-#### GIF
+* #### GIF
 
 
 ![GIF_caso_7](https://user-images.githubusercontent.com/43649125/97984687-da149480-1db5-11eb-9015-1685e2905f6c.gif)
