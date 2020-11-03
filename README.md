@@ -45,7 +45,7 @@ Condiciones de borde:
 | G_IN | @ |
 | G_D | @ |
 
-#### Gráfico evolución T°
+* #### Gráfico evolución T°
 
 ![Grafico_1](https://user-images.githubusercontent.com/43649125/97984325-64102d80-1db5-11eb-8efd-6194b03479f4.png)
 
