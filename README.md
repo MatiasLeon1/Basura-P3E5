@@ -31,11 +31,19 @@ Condiciones de borde:
 
 | _**Variable**_ | _**Valor**_ |
 |--------------|-----------|
+| a | 1 [m] |
+| b | 1 [m] |
+| Nx | 30 |
+| Ny | 30 |
 | T°_inicial | 20°C |
 | T_S | 0°C |
 | T_IZ | 20°C |
 | T_IN | 20° |
 | T_D | 0°C |
+| G_S | @ |
+| G_IZ | @ |
+| G_IN | @ |
+| G_D | @ |
 
 #### Gráfico evolución T°
 
@@ -55,12 +63,19 @@ Condiciones de borde:
 
 | _**Variable**_ | _**Valor**_ |
 |--------------|-----------|
+| a | 1 [m] |
+| b | 1 [m] |
+| Nx | 30 |
+| Ny | 30 |
 | T°_inicial | 20°C |
 | T_S | 0°C |
 | T_IZ | 20°C |
 | T_IN | 20° |
-| GD | 0°C |
-
+| T_D | @ |
+| G_S | @ |
+| G_IZ | @ |
+| G_IN | @ |
+| G_D | 0 |
 #### Gráfico evolución T°
 
 ##
@@ -78,11 +93,19 @@ Condiciones de borde:
 
 | _**Variable**_ | _**Valor**_ |
 |--------------|-----------|
+| a | 1 [m] |
+| b | 1 [m] |
+| Nx | 30 |
+| Ny | 30 |
 | T°_inicial | 10°C |
 | T_S | 0°C |
 | T_IZ | 20°C |
 | T_IN | 20° |
 | T_D | 20°C |
+| G_S | @ |
+| G_IZ | @ |
+| G_IN | @ |
+| G_D | @ |
 
 #### Gráfico evolución T°
 
@@ -101,10 +124,18 @@ Condiciones de borde:
 
 | _**Variable**_ | _**Valor**_ |
 |--------------|-----------|
+| a | 1 [m] |
+| b | 0.5 [m] |
+| Nx | 15 |
+| Ny | 30 |
 | T°_inicial | 10°C |
 | T_S | 0°C |
 | T_IZ | 20°C |
 | T_IN | 20° |
+| T_D | @ |
+| G_S | @ |
+| G_IZ | @ |
+| G_IN | @ |
 | G_D | 0 |
 
 #### Gráfico evolución T°
@@ -124,12 +155,19 @@ Condiciones de borde:
 
 | _**Variable**_ | _**Valor**_ |
 |--------------|-----------|
+| a | 1 [m] |
+| b | 1 [m] |
+| Nx | 30 |
+| Ny | 30 |
 | T°_inicial | 5°C |
-| G_S | 0 |
+| T_S | @ |
 | T_IZ | 25°C |
-| G_IN | 20 |
+| T_IN | @ |
 | T_D | 25°C |
-
+| G_S | 0 |
+| G_IZ | @ |
+| G_IN | 0 |
+| G_D | @ |
 #### Gráfico evolución T°
 
 ##
@@ -147,9 +185,17 @@ Condiciones de borde:
 
 | _**Variable**_ | _**Valor**_ |
 |--------------|-----------|
+| a | 1 [m] |
+| b | 1 [m] |
+| Nx | 30 |
+| Ny | 30 |
 | T°_inicial | 30°C |
-| G_S | 0° |
+| T_S | @ |
 | T_IZ | 10°C |
+| T_IN | @ |
+| T_D | @ |
+| G_S | 0 |
+| G_IZ | @ |
 | G_IN | 0 |
 | G_D | 0 |
 
@@ -172,8 +218,16 @@ Condiciones de borde:
 
 | _**Variable**_ | _**Valor**_ |
 |--------------|-----------|
+| a | 1 [m] |
+| b | 1 [m] |
+| Nx | 30 |
+| Ny | 30 |
 | T°_inicial | 20°C |
 | T_S | Sinusoide con variación de 10° |
+| T_IZ | @ |
+| T_IN | @ |
+| T_D | @ |
+| G_S | @ |
 | G_IZ | 0 |
 | G_IN | 0 |
 | G_D | 0 |
