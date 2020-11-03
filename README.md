@@ -1,5 +1,11 @@
 # Entrega 5
 
+| ik | hjk | nj  | ijm | 2 |
+|----|-----|-----|-----|---|
+| t  | y   | hhh | b   | g |
+| v  | ww  | h   | j   | k |
+| m  | h   | j   | j   | k |
+
 Para la presente entrega se generó una función llamada *`temperatura_hormigon`* la cual recibió los parámetros mencionados a continuación:
 
 * `a`: altura del cubo de hormigón
